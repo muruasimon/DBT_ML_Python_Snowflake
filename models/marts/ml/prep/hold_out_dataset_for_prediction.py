@@ -7,7 +7,7 @@ def model(dbt, session):
     # get upstream data
     encoding = dbt.ref("covariate_encoding").to_pandas()
     
-    # variable for year instead of hardcoding it 
+    # variable for year instead of hardcoding it
     year=2020
 
     # filter the data based on the specified year
