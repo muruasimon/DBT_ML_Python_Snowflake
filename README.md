@@ -13,3 +13,14 @@ Try running the following commands:
 - Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
+
+notes from Simon
+
+to recover project from dbt, 
+
+Repository
+git://github.com/muruasimon/DBT_ML_Python_Snowflake.git
+
+
+
